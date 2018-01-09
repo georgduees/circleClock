@@ -48,6 +48,9 @@ Please report any issues/bugs/suggestions at the [Issues](https://github.com/geo
 
 __Ver. 0.0.1__ - Not really started yet (9.1.18) 
 
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/georgduees/circleClock/tags). 
 
 ## LICENSE
 
