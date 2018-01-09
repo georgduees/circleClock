@@ -1,7 +1,9 @@
 # circleClock
 a open source clock based on shadowPlay
 ## Example Image
-!(image)[sq.gif]
+
+![Example of the clock][example_image]
+
 ##ToDo:
 * Search parts
 * SketchUp 3D Wood Templates
@@ -10,3 +12,6 @@ a open source clock based on shadowPlay
 * Arduino Code
 * Prototype Build
 * Improvements
+
+
+[example_image]: https://github.com/georgduees/circleClock/raw/master/sq.gif "ShadowPlay Clock"
