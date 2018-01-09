@@ -46,7 +46,8 @@ Please report any issues/bugs/suggestions at the [Issues](https://github.com/geo
 
 ## VERSION HISTORY
 
-__Ver. 0.0.1__ - Not really started yet (9.1.18)
+__Ver. 0.0.1__ - Not really started yet (9.1.18) 
+
 
 ## LICENSE
 
