@@ -28,8 +28,7 @@ Give an example
 * Hat tip to anyone who's code was used
 * Inspiration
 
-
+<!--
 ![Example of the clock][electronics_image]
+[electronics_image]: https://github.com/georgduees/circleClock/raw/master/sketches/images/img_20180109_180636.263.jpg "electronics sketch"-->
 
-/**[electronics_image]: https://github.com/georgduees/circleClock/raw/master/sketches/images/img_20180109_180636.263.jpg "electronics sketch"**/
-c
