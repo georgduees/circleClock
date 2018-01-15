@@ -22,7 +22,8 @@ This library enables members of the ATtiny family to become an I2C Bus Master. T
 
 - **README.md** - This readme file.
 - **/docs** - documentation
-   - **ELECTRONICS.md** - A file about electronic plans/schematics (contains SDA & SCL pin number definitions, I2C bus speed, hardware requirements.)
+
+   - **[ELECTRONICS](./ELECTRONICS.md)** - A file about electronic plans/schematics (contains SDA & SCL pin number definitions, I2C bus speed, hardware requirements.)
    - **HARDWARE.md** - A file about layout of the Case and parts needed( wood, general stuff.)
    - **BUILD.md** - A file about the Build planning.
    - **SOFTWARE.md** - A file about the Software Layout.
