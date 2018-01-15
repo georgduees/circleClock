@@ -5,7 +5,7 @@
 a open source clock based on shadowPlay by breadedEscalope 
 Link: www.breadedescalope.com/index.php/shadowplay-uhr-fuer-einen-salon
 
-This is a rebuild like the QlockThree rebuilds of the Biefert Funk Qlocktwo.
+This is a rebuild like the QlockThree rebuilds the Biegert Funk Qlocktwo.
 
 ## Example Image
 
